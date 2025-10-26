@@ -1,4 +1,4 @@
-<h1 align="center">lishaos</h1>
+<h1 align="center">lishao</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java开发学习中;热爱代码和思考;梦想成为一名优秀的程序员!&center=true&size=18">
 </p>
@@ -26,9 +26,9 @@
  💡 项目展示
 | 项目名 | 简介 | 技术栈 |
 |:-------|:------|:------|
-| 🎓 [学生信息管理系统](https://github.com/lishaos/StudentSystem) | 命令行管理学生信息，支持增删改查 | Java SE + 文件IO |
-| 🚗 [智能停车场系统](https://github.com/你的用户名/ParkingSystem) | 管理车位、车辆出入与计费 | Java + Swing + 文件持久化 |
-| 🔢 [长整数处理程序](https://github.com/你的用户名/BigIntProcessor) | 实现超大整数加减乘除运算 | C语言 + 链表思想 |
+| 🎓 [学生信息管理系统](https://github.com/lishao627/StudentSystem) | 命令行管理学生信息，支持增删改查 | Java SE + 文件IO |
+| 🚗 [智能停车场系统](https://github.com/lishao627/ParkingSystem) | 管理车位、车辆出入与计费 | Java + Swing + 文件持久化 |
+| 🔢 [长整数处理程序](https://github.com/lishao627/BigIntProcessor) | 实现超大整数加减乘除运算 | C语言 + 链表思想 |
 
 ---
 
