@@ -6,7 +6,7 @@
 ---
 
 ### 🌱 关于我
-- 🎓 计算机专业大二在读，正在学习 Java 方向  
+- 🎓 计算机专业大二在读，正在学习 Java 、C语言方向  
 - 💻 会写一些小项目，比如学生管理系统、智能停车场系统  
 - 🌈 正在练习用 GitHub 记录学习历程  
 - ☕️ 喜欢在深夜安静地写代码，享受小小的进步  
@@ -26,9 +26,10 @@
  💡 项目展示
 | 项目名 | 简介 | 技术栈 |
 |:-------|:------|:------|
-| 🎓 [学生信息管理系统](https://github.com/lishao627/StudentSystem) | 命令行管理学生信息，支持增删改查 | Java SE + 文件IO |
+| 🎓 [学生信息管理系统]((https://github.com/lishao627/Projectmanagement-system.git)) | 命令行管理学生信息，支持增删改查 | Java SE + 文件IO |
 | 🚗 [智能停车场系统](https://github.com/lishao627/ParkingSystem) | 管理车位、车辆出入与计费 | Java + Swing + 文件持久化 |
 | 🔢 [长整数处理程序](https://github.com/lishao627/dataStructure.git) | 实现超大整数加减乘除运算 | C语言 + 链表思想 |
+|☆*: .｡. o(≧▽≦)o .｡.:*☆.[数据结构学习](https://github.com/lishao627/Data-Structure-Practice.git)|学习栈、二叉树、链表等|C语言|
 
 ---
 
